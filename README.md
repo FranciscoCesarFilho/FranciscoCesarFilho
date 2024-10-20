@@ -1,4 +1,4 @@
-# Oi eu sou César Filho, Desenvolvedor de software na Área de Machine Learning e criador de conteúdo de programação e tecnologia!
+# Oi eu sou César Filho, Desenvolvedor na Área de Machine Learning e criador de conteúdo de programação e tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="César-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
