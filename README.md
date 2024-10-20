@@ -1,4 +1,4 @@
-# Oi eu sou César Filho, Desenvolvedor de software e criador de conteúdo de programação e tecnologia!
+# Oi eu sou César Filho, Desenvolvedor de software na Área de Machine Learning e criador de conteúdo de programação e tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="César-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,8 +13,7 @@
   ##
  
 <div> 
-  <a href="https://youtube.com/@CesarFilho-Tech?si=l3EmfpJGoBqYAyRO" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/cesarfilho_tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%233b45d9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/DpeEBSVtGk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/@DreamMetaA.I" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/cesarfilhotech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%233b45d9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
