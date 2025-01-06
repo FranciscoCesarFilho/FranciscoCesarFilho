@@ -3,73 +3,6 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>César Filho - Desenvolvedor de IA</title>
-   <style>
-       body {
-           font-family: Arial, sans-serif;
-           max-width: 1200px;
-           margin: 0 auto;
-           padding: 20px;
-           background-color: #0d1117;
-           color: #c9d1d9;
-       }
-
-       h1 {
-           color: #58a6ff;
-           font-size: 24px;
-           margin-bottom: 20px;
-       }
-
-       .description {
-           color: #8b949e;
-           font-size: 16px;
-           line-height: 1.6;
-           margin-bottom: 25px;
-           max-width: 800px;
-       }
-
-       .highlight {
-           color: #58a6ff;
-           font-weight: bold;
-       }
-
-       .tech-icons {
-           display: inline-block;
-           background-color: #161b22;
-           padding: 20px;
-           border-radius: 8px;
-           margin: 20px 0;
-       }
-
-       .tech-icons img {
-           margin: 0 5px;
-           transition: transform 0.3s ease;
-       }
-
-       .tech-icons img:hover {
-           transform: scale(1.2);
-       }
-
-       .divider {
-           border-top: 1px solid #30363d;
-           margin: 20px 0;
-       }
-
-       .social-links {
-           display: flex;
-           gap: 10px;
-           flex-wrap: wrap;
-       }
-
-       .social-links a {
-           text-decoration: none;
-           transition: opacity 0.3s ease;
-       }
-
-       .social-links a:hover {
-           opacity: 0.8;
-       }
-   </style>
 </head>
 <body>
    <h1>👋 Olá! Eu sou César Filho</h1>
@@ -107,16 +40,5 @@
            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
        </a>
    </div>
-
-   <script>
-       document.querySelectorAll('.tech-icons img').forEach(icon => {
-           icon.addEventListener('mouseover', function() {
-               this.style.transform = 'scale(1.2)';
-           });
-           icon.addEventListener('mouseout', function() {
-               this.style.transform = 'scale(1)';
-           });
-       });
-   </script>
 </body>
 </html>
